@@ -2,7 +2,7 @@
 Hubot Conspire
 ==============
 
-Generate frightening and very believable conspiracy theories in Hubot.
+Generate frightening and very believable conspiracy theories in Hubot. Conspiracies sourced from [Conspire][conspire].
 
 **Current Version:** *0.0.0*  
 **Node Support:** *0.10.x, 0.11.x*  
@@ -31,4 +31,5 @@ Copyright &copy; 2014, Rowan Manning
 
 
 
+[conspire]: https://github.com/rowanmanning/conspire
 [mit]: http://opensource.org/licenses/mit-license.php
