@@ -1,6 +1,6 @@
 {
     "name": "hubot-conspire",
-    "version": "0.0.0",
+    "version": "1.0.0",
 
     "description": "Generate frightening and very believable conspiracy theories in Hubot",
     "keywords": [ "conspiracy", "generator", "hubot", "hubot-scripts", "theory" ],
