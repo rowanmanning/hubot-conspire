@@ -1,0 +1,33 @@
+{
+    "name": "hubot-conspire",
+    "version": "0.0.0",
+
+    "description": "Generate frightening and very believable conspiracy theories in Hubot",
+    "keywords": [ "conspiracy", "generator", "hubot", "hubot-scripts", "theory" ],
+    "author": "Rowan Manning (http://rowanmanning.com/)",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rowanmanning/hubot-conspire.git"
+    },
+    "homepage": "https://github.com/rowanmanning/hubot-conspire",
+    "bugs": "https://github.com/rowanmanning/hubot-conspire/issues",
+    "license": "MIT",
+
+    "engines": {
+        "node": ">=0.10"
+    },
+    "dependencies": {
+        "coffee-script": "~1.6",
+        "conspire": "~1"
+    },
+    "devDependencies": {
+        "coffeelint": "~1.5",
+        "mocha": "~1.20",
+        "mockery": "~1.4",
+        "proclaim": "~2.0",
+        "sinon": "~1.10"
+    },
+
+    "main": "./index.coffee"
+}
